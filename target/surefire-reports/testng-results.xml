@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-19T13:10:14 GMT" name="All Test Suite" finished-at="2021-02-19T13:10:21 GMT" duration-ms="7121">
+    <groups>
+    </groups>
+    <test started-at="2021-02-19T13:10:14 GMT" name="C:/Users/Steve/IdeaProjects/46TextFields/src/main/java" finished-at="2021-02-19T13:10:21 GMT" duration-ms="7121">
+      <class name="TextFields.TestFieldsa">
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:TextFields.TestFieldsa@1d548a08]" started-at="2021-02-19T13:10:14 GMT" name="StartBrowser" description="This is to test the URL is called" finished-at="2021-02-19T13:10:20 GMT" duration-ms="5202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method signature="TestOne()[pri:1, instance:TextFields.TestFieldsa@1d548a08]" started-at="2021-02-19T13:10:20 GMT" name="TestOne" description="This finds the password field, no data is entered, should get an error message" finished-at="2021-02-19T13:10:20 GMT" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOne -->
+        <test-method signature="TestTwo()[pri:2, instance:TextFields.TestFieldsa@1d548a08]" started-at="2021-02-19T13:10:20 GMT" name="TestTwo" description="Submit is pressed, an error message is displayed and accepted" finished-at="2021-02-19T13:10:20 GMT" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTwo -->
+        <test-method signature="TestThree()[pri:3, instance:TextFields.TestFieldsa@1d548a08]" started-at="2021-02-19T13:10:20 GMT" name="TestThree" description="This finds the password field and enters 7 characters, should get an error message" finished-at="2021-02-19T13:10:20 GMT" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestThree -->
+        <test-method signature="TestFour()[pri:4, instance:TextFields.TestFieldsa@1d548a08]" started-at="2021-02-19T13:10:20 GMT" name="TestFour" description="Submit is pressed, an error message is displayed and accepted" finished-at="2021-02-19T13:10:20 GMT" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFour -->
+        <test-method signature="TestFive()[pri:5, instance:TextFields.TestFieldsa@1d548a08]" started-at="2021-02-19T13:10:20 GMT" name="TestFive" description="This finds the password field and enters 17 characters, should get an error message" finished-at="2021-02-19T13:10:20 GMT" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFive -->
+        <test-method signature="TestSix()[pri:6, instance:TextFields.TestFieldsa@1d548a08]" started-at="2021-02-19T13:10:20 GMT" name="TestSix" description="Submit is pressed, an error message is displayed and accepted" finished-at="2021-02-19T13:10:21 GMT" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSix -->
+        <test-method signature="TestSeven()[pri:7, instance:TextFields.TestFieldsa@1d548a08]" started-at="2021-02-19T13:10:21 GMT" name="TestSeven" description="Enter the correct password and should be accepted" finished-at="2021-02-19T13:10:21 GMT" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSeven -->
+        <test-method signature="TestEight()[pri:8, instance:TextFields.TestFieldsa@1d548a08]" started-at="2021-02-19T13:10:21 GMT" name="TestEight" description="This is to ok the alert message" finished-at="2021-02-19T13:10:21 GMT" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestEight -->
+        <test-method signature="TestNine()[pri:9, instance:TextFields.TestFieldsa@1d548a08]" started-at="2021-02-19T13:10:21 GMT" name="TestNine" description="This is to test that the browser closes" finished-at="2021-02-19T13:10:21 GMT" duration-ms="525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNine -->
+      </class> <!-- TextFields.TestFieldsa -->
+    </test> <!-- C:/Users/Steve/IdeaProjects/46TextFields/src/main/java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

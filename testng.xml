@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Steve/IdeaProjects/46TextFields/src/main/java">
+        <classes>
+            <class name="TextFields.TestFieldsa">
+                <methods>
+                    <include name="TestOne"/>
+                    <include name="TestTwo"/>
+                    <include name="TestThree"/>
+                    <include name="TestFour"/>
+                    <include name="TestFive"/>
+                    <include name="TestSix"/>
+                    <include name="TestSeven"/>
+                    <include name="TestEight"/>
+                    <include name="TestNine"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
