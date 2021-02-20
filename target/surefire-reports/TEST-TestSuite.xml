@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="8.993" tests="9" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="11.817" tests="9" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="14"/>
     <property name="webdriver.chrome.driver" value="C:\Selenium\chromedriver.exe"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="GB"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-14.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\Steve\AppData\Local\Temp\surefire18005608767157833802\surefirebooter7510827344359735.jar C:\Users\Steve\AppData\Local\Temp\surefire18005608767157833802 2021-02-19T13-10-11_576-jvmRun1 surefire14963139933792447016tmp surefire_01179569615403052108tmp"/>
+    <property name="sun.java.command" value="C:\Users\Steve\AppData\Local\Temp\surefire8202054719213539479\surefirebooter13869114101953257146.jar C:\Users\Steve\AppData\Local\Temp\surefire8202054719213539479 2021-02-20T13-45-39_358-jvmRun1 surefire3428393220997465553tmp surefire_013133965451727586604tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Steve\IdeaProjects\46TextFields\target\test-classes;C:\Users\Steve\IdeaProjects\46TextFields\target\classes;C:\Users\Steve\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\Steve\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\Steve\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\Steve\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\Steve\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\Steve\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\Steve\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\Steve\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\Steve\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\Steve\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\Steve\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\Steve\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Steve\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\Steve\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\Steve\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\Steve\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\Steve\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\Steve\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\Steve\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\Steve\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\Steve\.m2\repository\org\testng\testng\7.3.0\testng-7.3.0.jar;C:\Users\Steve\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\Steve\.m2\repository\org\apache\ant\ant\1.10.3\ant-1.10.3.jar;C:\Users\Steve\.m2\repository\org\apache\ant\ant-launcher\1.10.3\ant-launcher-1.10.3.jar;C:\Users\Steve\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Steve\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Steve\.m2\repository\com\google\inject\guice\4.2.2\guice-4.2.2-no_aop.jar;C:\Users\Steve\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\Steve\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\Steve\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Steve\AppData\Local\Temp\surefire18005608767157833802\surefirebooter7510827344359735.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Steve\AppData\Local\Temp\surefire8202054719213539479\surefirebooter13869114101953257146.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="14.0.2+12-46"/>
@@ -56,46 +56,46 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="58.0"/>
   </properties>
-  <testcase name="TestOne" classname="TextFields.TestFieldsa" time="0.184">
+  <testcase name="TestOne" classname="TextFields.TestFieldsa" time="0.198">
     <system-out><![CDATA[The password field was left empty
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}) on port 24804
+    <system-err><![CDATA[Starting ChromeDriver 88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}) on port 6137
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Feb 19, 2021 1:10:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Feb 20, 2021 1:45:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
-  <testcase name="TestTwo" classname="TextFields.TestFieldsa" time="0.222">
+  <testcase name="TestTwo" classname="TextFields.TestFieldsa" time="0.4">
     <system-out><![CDATA[Submit has been pressed and the following error message was displayed: 'Please enter your Password'
 ]]></system-out>
   </testcase>
-  <testcase name="TestThree" classname="TextFields.TestFieldsa" time="0.109">
+  <testcase name="TestThree" classname="TextFields.TestFieldsa" time="0.146">
     <system-out><![CDATA[7 characters were entered in the Password field should not be less than 8
 ]]></system-out>
   </testcase>
-  <testcase name="TestFour" classname="TextFields.TestFieldsa" time="0.183">
+  <testcase name="TestFour" classname="TextFields.TestFieldsa" time="0.138">
     <system-out><![CDATA[Submit has been pressed and the following error message was displayed: 'Password must be more than 8 characters long'
 ]]></system-out>
   </testcase>
-  <testcase name="TestFive" classname="TextFields.TestFieldsa" time="0.099">
+  <testcase name="TestFive" classname="TextFields.TestFieldsa" time="0.133">
     <system-out><![CDATA[17 characters were entered in the Password field should not be more than 16
 ]]></system-out>
   </testcase>
-  <testcase name="TestSix" classname="TextFields.TestFieldsa" time="0.147">
+  <testcase name="TestSix" classname="TextFields.TestFieldsa" time="0.143">
     <system-out><![CDATA[Submit has been pressed and the following error message was displayed: 'Password cannot be more than 16 characters long'
 ]]></system-out>
   </testcase>
-  <testcase name="TestSeven" classname="TextFields.TestFieldsa" time="0.211">
+  <testcase name="TestSeven" classname="TextFields.TestFieldsa" time="0.161">
     <system-out><![CDATA[The correct Password has been entered
 ]]></system-out>
   </testcase>
-  <testcase name="TestEight" classname="TextFields.TestFieldsa" time="0.158">
+  <testcase name="TestEight" classname="TextFields.TestFieldsa" time="0.165">
     <system-out><![CDATA[Submit has been pressed and Password has been accepted
 ]]></system-out>
   </testcase>
-  <testcase name="TestNine" classname="TextFields.TestFieldsa" time="0.527">
+  <testcase name="TestNine" classname="TextFields.TestFieldsa" time="2.093">
     <system-out><![CDATA[Browser has been closed
 ]]></system-out>
   </testcase>
